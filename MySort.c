@@ -4,7 +4,7 @@
 #include “MySort.h”
 
 /* select sort */
-void SelectSort(int *a, int len)
+void SelectionSort(int *a, int len)
 {
 	int i, j;
 	int temp;
