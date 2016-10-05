@@ -1,11 +1,11 @@
 /* MySort.c */
-#include <stdlib.h>
 
-#include “MySort.h”
 
 /* select sort */
 void SelectionSort(int *a, int len)
 {
+	if (len <= 1)
+		return ;
 	int i, j;
 	int temp;
 	int small;
