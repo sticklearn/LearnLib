@@ -1,2 +1,2 @@
 # LearnLib
-learn from none(https://github.com/sticklearn/LearnLib/edit/master/README.md)
+learn from none [help](https://github.com/sticklearn/LearnLib/edit/master/README.md)
